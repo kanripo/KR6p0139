@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:03:42.502442
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:56
 #+TITLE: 道安法師念佛讚
 #+PROPERTY: CBETA_ID T85n2830A
 #+PROPERTY: ID KR6p0139
@@ -72,6 +72,5 @@ No. 2830A¶
 　普勸眾生修萬行
 　今逢法教莫生疑¶
 　決定至心聞妙法
-　當來極樂佛邊期
+　當來極樂佛邊期」
 #+END_VERSE
-」
